@@ -1,0 +1,24 @@
+{
+  "name": "mypwdgen",
+  "version": "0.0.1",
+  "description": "Sydney Sweeney password Gen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiimoo/my-pwd-gen.git"
+  },
+  "keywords": [
+    "Sydney",
+    "Sweeney",
+    "password"
+  ],
+  "author": "Timor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiimoo/my-pwd-gen/issues"
+  },
+  "homepage": "https://github.com/Thiimoo/my-pwd-gen#readme"
+}
